@@ -367,5 +367,21 @@
     "linkedin": "shaoyi-li-cloud",
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/shaoyi-li.png"
+  },
+   {
+    "name": "Dave Chen",
+    "github": "dowchen",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "date": "2024-07-01",
+    "bio": "AWS AAI Champion, AWS Community Builder, AWS Golden Jacket",
+    "twitter": "dowchen",
+    "linkedin": "dowchen",
+    "website": "https://www.dow.com.hk",
+    "avatar": "/avatars/dowchen.png"
   }
 ]
